@@ -13,4 +13,4 @@
 1. Decisive
 1. Motivation
 
-[Go back to home page](./README.md)
+[Return to Homepage](./README.md)
