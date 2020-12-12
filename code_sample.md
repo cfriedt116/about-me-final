@@ -39,4 +39,4 @@ return 0;
 }
 ```
 
-[return to home page](./README.md)
+[Return to Homepage](./README.md)
