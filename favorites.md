@@ -6,8 +6,6 @@ I am also into American Realistic art. I have always been facinated by it as it 
 
 ## Links
 
-![Link 1](https://github.com/username/image.png)
-
-![Link 2](https://en.wikipedia.org/wiki/Nighthawks_(painting)#/media/File:Nighthawks_by_Edward_Hopper_1942.jpg)
-
+![Once Upon a Time in Hollywood](https://en.wikipedia.org/wiki/Once_Upon_a_Time_in_Hollywood)
+![Nighthawks](https://en.wikipedia.org/wiki/Nighthawks_(painting)
 [return to home](./README.md)
