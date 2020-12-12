@@ -32,8 +32,8 @@ Some of code sample written by me
 
 ```c
 #include <stdio.h>
-int main() {
-// printf() displays the string inside quotation
+int main() 
+{
 printf("Hello, World!");
 return 0;
 }
