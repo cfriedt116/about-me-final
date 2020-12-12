@@ -1,6 +1,6 @@
 # Hobby
 
-I like to visit these sites as hobby-
+I like to visit these sites in my free time.
 
 * [Youtube](https://www.youtube.com)
 * [Twitter](https://www.twitter.com)
