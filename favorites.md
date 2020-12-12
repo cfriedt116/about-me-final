@@ -11,4 +11,4 @@ I am also into American Realistic art. I have always been facinated by it as it 
 
 [Nighthawks](https://en.wikipedia.org/wiki/Nighthawks_(painting))
 
-[return to home](./README.md)
+[Return to Homepage](./README.md)
